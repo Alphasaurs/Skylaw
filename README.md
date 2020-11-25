@@ -1,2 +1,2 @@
 # ARTIFICIAL-LOOP
-an immersive variance of loop
+immersive variance of loop
